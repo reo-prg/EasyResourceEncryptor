@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+.vs/*
+datafile/*
+x64/*
+*.png
+*.rc
+*.xcf
+resource*
